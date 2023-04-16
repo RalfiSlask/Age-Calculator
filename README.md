@@ -1,4 +1,4 @@
-# Frontend Mentor - Url-shortening-landingpage
+# Frontend Mentor - Age-Calculator
 
 ![Design preview for the Password generator app coding challenge](./preview.png)
 
